@@ -1,7 +1,7 @@
 # Remainders Project
 
 ## Overview
-The To-Do List project is a simple web application designed to help users manage their tasks effectively. It provides a clean and intuitive interface for adding, editing, and deleting tasks. The project is built using HTML, CSS, and JavaScript.
+The Remainder project is a simple web application designed to help users manage their tasks effectively. It provides a clean and intuitive interface for adding, editing, and deleting tasks. The project is built using HTML, CSS, and JavaScript.
 
 ## Features
 1. **Add Task**: Users can add tasks by typing in the task description and hitting the enter key or clicking the add button.
