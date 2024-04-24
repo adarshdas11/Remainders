@@ -27,8 +27,5 @@ The Remainder project is a simple web application designed to help users manage 
 - **Responsive Design**: Make the application responsive to ensure optimal viewing and interaction across various devices and screen sizes.
 
 ## Contributors
-- [Your Name](link-to-your-profile) - Project Lead & Developer
-
-## License
-This project is licensed under the [MIT License](link-to-license-file).
+- [Adarsh H](link-to-your-profile) - Project Lead & Developer
 
